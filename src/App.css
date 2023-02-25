@@ -1,0 +1,23 @@
+.App{
+    background:black;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer{
+    margin-top: 2rem;
+    background-color: black;
+    background-color: rgb(63, 63, 63);
+    color: lightgray;
+    height: 8vh;
+    text-align: center;
+    font-weight: 500;
+    padding: 1rem;
+}
+h3{
+    color:white;
+    line-height: 7rem;
+}
+h4{
+    color: white
+}
